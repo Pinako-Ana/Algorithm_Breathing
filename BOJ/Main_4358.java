@@ -1,3 +1,5 @@
+package Algorithm_Breathing.BOJ;
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.HashMap;

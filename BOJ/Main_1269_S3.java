@@ -1,4 +1,4 @@
-package BOJ;
+package Algorithm_Breathing.BOJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;

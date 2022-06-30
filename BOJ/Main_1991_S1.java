@@ -2,7 +2,10 @@ package BOJ;
 
 
 import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class Main_1991_S1 {
     static Map<String, List<String>> hm;
